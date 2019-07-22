@@ -7,6 +7,7 @@ const TextArea = styled.textarea`
   max-width: 600px;
   padding: 12px 20px;
   box-sizing: border-box;
+  box-shadow: none;
   border: 2px solid ${colors.borderComment};
   border-radius: 4px;
   background-color: ${colors.textComment};

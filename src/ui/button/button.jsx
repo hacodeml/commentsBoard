@@ -7,7 +7,7 @@ const Button = styled.button`
   color:${colors.title_btnw};
   font-size: 1em;
   margin: 1em;
-  border: 2px solid ${colors.buttons};
+  border: 2px solid ${colors.buttonsbgb};
   border-radius: 15px;
   transition: background 0.7s ease;
   max-width: 200px;
